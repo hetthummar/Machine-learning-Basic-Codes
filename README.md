@@ -1,2 +1,2 @@
-# Machine-learning
-It is collection of bunch of useful basic machine learning code.
+# Machine-learning Basic Codes
+Collection of basic machine learning codes. Specially helpfull for the beginners.
